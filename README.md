@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mark-usman
+- 👋 Hi, I’m Mark Usman
 - 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning Javscript & Jquery
 - 💞️ I’m looking to collaborate on web apps and related projects
